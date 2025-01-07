@@ -22,6 +22,8 @@ cask obs
 cask vlc
 cask zoom
 
+cask vivaldi #Browser
+
 #tap 'homebrew/cask-fonts'
 cask 'font-jetbrains-mono'
 cask 'font-ibm-plex'
