@@ -8,6 +8,8 @@ brew gh
 brew nnn # File manager
 brew ffmpeg
 
+#Languages
+
 brew go
 brew zig
 brew java
@@ -15,12 +17,14 @@ brew cargo
 brew python
 brew node@20
 
+#Apps
 brew discord
-
-cask emacs
+cask figma
 cask obs
 cask vlc
 cask zoom
+
+cask emacs
 
 cask vivaldi #Browser
 
