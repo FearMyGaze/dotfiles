@@ -19,6 +19,7 @@ brew node@20
 
 #Apps
 brew discord
+brew orbstack
 cask figma
 cask obs
 cask vlc
